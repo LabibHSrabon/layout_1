@@ -1,0 +1,29 @@
+.all{overflow: hidden;
+border: 5px violet solid}
+.header{background-color: green;
+		border: 5px solid red;
+		min-height: 200px; }
+.body{border: 8px solid yellow;
+	overflow: hidden;}
+.banner{border: cyan 8px solid;
+		background-color: brown;
+		min-height: 400px ;
+}
+.blog{background-color: blue;
+	border: 5px solid black;
+	  min-height: 300px;
+	  width: 33%;
+	  float: left;}
+.content{background-color: pink;
+	border: 5px solid brown;
+	  min-height: 300px;
+	  width: 32.32%;
+	  float: left;}
+.contact{background-color: red;
+		border: 5px solid green;
+		min-height: 300px;
+		width: 33%;
+		float: right;}
+.footer{background-color: grey;
+		min-height: 150px;
+		border: black solid 5px;}
