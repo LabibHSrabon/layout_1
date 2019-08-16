@@ -12,7 +12,7 @@ border: 5px violet solid}
 .blog{background-color: blue;
 	border: 5px solid black;
 	  min-height: 300px;
-	  width: 33%;
+	  width: 32%;
 	  float: left;}
 .content{background-color: pink;
 	border: 5px solid brown;
@@ -22,7 +22,7 @@ border: 5px violet solid}
 .contact{background-color: red;
 		border: 5px solid green;
 		min-height: 300px;
-		width: 33%;
+		width: 32%;
 		float: right;}
 .footer{background-color: grey;
 		min-height: 150px;
